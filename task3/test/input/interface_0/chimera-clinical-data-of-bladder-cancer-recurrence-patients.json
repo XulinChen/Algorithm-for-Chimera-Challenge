@@ -1,0 +1,17 @@
+{
+  "age": 81,
+  "sex": "Male",
+  "smoking": "Yes",
+  "tumor": "Primary",
+  "stage": "T1HG",
+  "substage": "T1e",
+  "grade": "G3",
+  "reTUR": "Yes",
+  "LVI": "Yes",
+  "variant": "UCC + Variant",
+  "EORTC": "Highest risk",
+  "no_instillations": 10.0,
+  "BRS": "BRS3",
+  "progression": 1,
+  "Time_to_prog_or_FUend": 7
+}
